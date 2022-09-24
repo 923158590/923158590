@@ -1,0 +1,97 @@
+{
+  "titleNameMap": {
+    "educationList": "教育背景",
+    "workExpList": "工作经历",
+    "projectList": "项目经历",
+    "skillList": "个人技能",
+    "awardList": "更多信息",
+    "workList": "个人作品",
+    "aboutme": "自我介绍"
+  },
+  "avatar": {
+    "hidden": false,
+    "shape": "circle"
+  },
+  "profile": {
+    "name": "张俊鹏",
+    "email": "923158590@qq.com",
+    "mobile": "13714210768",
+    "github": "",
+    "zhihu": "",
+    "workExpYear": "",
+    "workPlace": "广东广州",
+    "positionTitle": "游戏程序开发"
+  },
+  "educationList": [
+    {
+      "edu_time": [ "2017.09", "2020.7" ],
+      "school": "深圳职业技术学院",
+      "major": "物联网应用技术",
+      "dataIndex": 0
+    },
+    {
+      "edu_time": [ "2021-09", "至今" ],
+      "school": "广州南方学院",
+      "major": "计算机科学与技术",
+      "academic_degree": "本科",
+      "dataIndex": 1
+    }
+  ],
+  "awardList": [
+    {
+      "award_info": "英语 CET4",
+      "award_time": "2022",
+      "dataIndex": 0
+    }
+  ],
+  "workExpList": [],
+  "skillList": [
+    {
+      "skill_name": "unity3d",
+      "skill_desc": "unity3d",
+      "skill_level": 80,
+      "dataIndex": 0
+    },
+    {
+      "skill_name": "C#",
+      "skill_level": 80,
+      "dataIndex": 1,
+      "skill_desc": "C#"
+    },
+    {
+      "skill_name": "算法",
+      "skill_desc": "算法",
+      "skill_level": 50,
+      "dataIndex": 2
+    },
+    {
+      "skill_name": "设计模式",
+      "skill_desc": "设计模式",
+      "skill_level": 80,
+      "dataIndex": 3
+    }
+  ],
+  "projectList": [
+    {
+      "project_name": "潜行游戏",
+      "project_role": "游戏程序开发",
+      "project_time": "2018.07 - 2019.04 / 2020.07 - 至今",
+      "project_desc": "一款尽量避免被发现，通过道具来帮助角色通过危险的敌人，最终到达指定的地方并且获胜的游戏",
+      "project_content": "1、游戏玩法的设计\n                2、基本UI的设计，UI系统脚本的编写\n                3、背包系统的实现\n                4、玩家操作的代码实现\n                5、XML存储系统的实现\n                6、箱子基本功能的实现\n                7、敌人AI系统的设计",
+      "dataIndex": 0
+    }
+  ],
+  "workList": [
+    {
+      "work_name": "潜行",
+      "work_desc": "一款尽量避免被发现，通过道具来帮助角色通过危险的敌人，最终到达指定的地方并且获胜的游戏",
+      "visit_link": "https://visiky.github.io/resume/?mode=edit&user=%7Buser%7D",
+      "dataIndex": 0
+    }
+  ],
+  "aboutme": { "aboutme_desc": "一名热爱游戏，也是一名喜欢制作游戏的二次元玩家，现在在读于广州南方学院，计算机科学与技术专业的学生，已通过英语四级，可以阅读部分英文开发文档。现在正在为成为一名合格的游戏程序开发而努力学习，平常会自己去学习unity引擎的使用，也会去看看一些算法题来提升自己对代码的理解，通过编写了自己的项目以后发现设计模式异常的重要，一个好的程序应该是可以便于扩展，便于升级的，并且耦合度应该要尽可能的低。平常会打打战双，追追番剧。" },
+  "theme": {
+    "color": "#2f5785",
+    "tagColor": "#8bc34a"
+  }
+}
